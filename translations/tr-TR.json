@@ -17,6 +17,7 @@
         "Login": "Giriş",
         "Logout": "Çıkış",
         "MapLegend": "",
+        "LegendWindow": "",
         "Measure": "Ölç",
         "MeasureLineString": "Bir çizgiyi ölçmek",
         "MeasurePolygon": "Bir çokgen ölçmek",

@@ -17,6 +17,7 @@
         "Login": "",
         "Logout": "",
         "MapLegend": "",
+        "LegendWindow": "",
         "Measure": "Измерения",
         "MeasureLineString": "измерить линию",
         "MeasurePolygon": "измерить многоугольник",

@@ -32,6 +32,7 @@
     "appmenu.items.Login",
     "appmenu.items.Logout",
     "appmenu.items.MapLegend",
+    "appmenu.items.LegendWindow",
     "appmenu.items.Measure",
     "appmenu.items.MeasureLineString",
     "appmenu.items.MeasurePolygon",

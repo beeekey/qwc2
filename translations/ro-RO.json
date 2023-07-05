@@ -17,6 +17,7 @@
         "Login": "Conectează-te",
         "Logout": "Deconectează-te",
         "MapLegend": "",
+        "LegendWindow": "",
         "Measure": "Măsoară",
         "MeasureLineString": "Măsoară o linie",
         "MeasurePolygon": "Măsoară un poligon",

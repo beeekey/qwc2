@@ -17,6 +17,7 @@
         "Login": "Login",
         "Logout": "Logout",
         "MapLegend": "Legend",
+        "LegendWindow": "Legend",
         "Measure": "Measure",
         "MeasureLineString": "Measure a line",
         "MeasurePolygon": "Measure a polygon",

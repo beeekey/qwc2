@@ -17,6 +17,7 @@
         "Login": "",
         "Logout": "",
         "MapLegend": "",
+        "LegendWindow": "",
         "Measure": "Mérés",
         "MeasureLineString": "Mérési vonal",
         "MeasurePolygon": "Mérési sokszög",

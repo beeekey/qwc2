@@ -17,6 +17,7 @@
         "Login": "Accedi",
         "Logout": "Disconnetti",
         "MapLegend": "Legenda",
+        "LegendWindow": "",
         "Measure": "Misura",
         "MeasureLineString": "Misura una linea",
         "MeasurePolygon": "Misura un poligono",

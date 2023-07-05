@@ -17,6 +17,7 @@
         "Login": "Logga in",
         "Logout": "Logga ut",
         "MapLegend": "",
+        "LegendWindow": "",
         "Measure": "Mät",
         "MeasureLineString": "Mäta en linje",
         "MeasurePolygon": "Mäta en polygon",

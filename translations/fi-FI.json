@@ -17,6 +17,7 @@
         "Login": "Kirjaudu",
         "Logout": "Kirjaudu ulos",
         "MapLegend": "",
+        "LegendWindow": "",
         "Measure": "Mittaa",
         "MeasureLineString": "Mittaa viiva",
         "MeasurePolygon": "Mittaa monikulmion",

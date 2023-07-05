@@ -17,6 +17,7 @@
         "Login": "Connexion",
         "Logout": "Déconnexion",
         "MapLegend": "Légende",
+        "LegendWindow": "",
         "Measure": "Mesurer",
         "MeasureLineString": "Mesurer une ligne",
         "MeasurePolygon": "Mesurer un polygone",

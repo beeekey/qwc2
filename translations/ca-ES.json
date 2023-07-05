@@ -17,6 +17,7 @@
         "Login": "Inicio de sessió",
         "Logout": "Tancament de sessió",
         "MapLegend": "Llegenda",
+        "LegendWindow": "",
         "Measure": "Mesurar",
         "MeasureLineString": "Mesurar una línia",
         "MeasurePolygon": "Mesurar un polígon",
